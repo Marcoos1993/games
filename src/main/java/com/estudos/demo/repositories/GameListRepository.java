@@ -9,4 +9,6 @@ import com.estudos.demo.entities.GameList;
 public interface GameListRepository extends JpaRepository<GameList, Long> {
 
 	public List<GameList> findAll();
+	
+
 }

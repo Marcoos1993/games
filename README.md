@@ -18,6 +18,7 @@ Spring boot <br>
 Maven <br>
 H2 <br>
 Postgres <br>
+JPA / Hibernate <br>
 
 
 
